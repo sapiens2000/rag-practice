@@ -2,5 +2,5 @@ streamlit
 groq
 numpy
 pickle
-SentenceTransformer
+sentence-transformers
 os
